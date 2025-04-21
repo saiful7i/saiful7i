@@ -147,6 +147,7 @@
 
 <p>
 <a href="https://skillicons.dev">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
   </a>
 </p>
