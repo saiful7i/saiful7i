@@ -155,11 +155,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
-</a>
-<br/>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,replit" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,replit" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
