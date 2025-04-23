@@ -107,7 +107,7 @@
   <p align="center">
   <a>
     <img height="150" width="150" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/left.webp">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saiful7i&theme=whatsapp-dark2&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saiful7i" alt="GitHub Streak" /></a>
     <img height="150" width="150" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/right.webp">
   </a>
 </p>
